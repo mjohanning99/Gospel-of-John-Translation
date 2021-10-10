@@ -1,0 +1,21 @@
+\babel@toc {english}{}
+\contentsline {part}{Preface}{i}{}%
+\contentsline {chapter}{Introduction to this Translation}{i}{}%
+\contentsline {section}{Textual basis}{i}{}%
+\contentsline {section}{Cultural issues}{ii}{}%
+\contentsline {section}{Linguistic issues}{iii}{}%
+\contentsline {section}{How to read the translation}{v}{}%
+\contentsline {chapter}{Author's Note}{vii}{}%
+\contentsline {chapter}{About the Author}{ix}{}%
+\contentsline {part}{The Gospel of John}{1}{}%
+\babel@toc {greek}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {I}John on the Isle of Patmos}{2}{}%
+\babel@toc {greek}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\contentsline {part}{Appendix}{}{}%
+\contentsline {chapter}{The Greek Alphabet}{i}{}%
+\contentsline {chapter}{Further Reading}{iii}{}%
+\contentsline {chapter}{Afterword}{v}{}%

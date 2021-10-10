@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.6.30)  10 OCT 2021 17:44
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.6.30)  10 OCT 2021 19:05
  restricted system commands enabled.
  file:line:error style messages enabled.
 **gospelofjohn.tex
@@ -16916,24 +16916,26 @@ LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/sc' will be
 (Font)              scaled to size 24.88pt on input line 49.
  [11
 
-] (./text/frontmatter/intro.tex
+] (./text/frontmatter/translationseries.tex
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
 (Font)              scaled to size 20.74pt on input line 2.
- [1
+) (./text/frontmatter/intro.tex [1
 
-] [2] [3] [4] [5]) [6]
+] [2
+
+] [3] [4] [5] [6]) [7]
 \openout2 = text/frontmatter/note.aux
- (./text/frontmatter/note.tex [7
+ (./text/frontmatter/note.tex [8
 
 
-]) [8]
+]) [9]
 \openout2 = text/frontmatter/about.aux
- (./text/frontmatter/about.tex) [9
+ (./text/frontmatter/about.tex) [10
 
 
 
 
-] [10
+] [11
 
 
 ] [1
@@ -17178,7 +17180,7 @@ Package lettrine Warning: Unable to compute \fontsize!
 
 Package lettrine.sty Info: Targeted height = 34.97906pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 36.10924pt (Ἀ);
+(lettrine.sty)             Lettrine height = 37.31602pt (Ἐ);
 (lettrine.sty)             reported on input line 10.
 Section 1 ("/Users/mjo/Documents/Ancient Greek/Translations/Gospel of John Translation/.texpadtmp/gospelofjohn.1")
 \openout3 = gospelofjohn.1
@@ -17186,7 +17188,7 @@ Section 1 ("/Users/mjo/Documents/Ancient Greek/Translations/Gospel of John Trans
 Package lettrine.sty Info: Targeted height = 34.97906pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 34.9792pt (T);
-(lettrine.sty)             reported on input line 20.
+(lettrine.sty)             reported on input line 26.
 
 
 *************************** PAGES ***************************
@@ -17195,12 +17197,12 @@ Package lettrine.sty Info: Targeted height = 34.97906pt
 ]
 Chapter  I.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 27.
+(Font)              scaled to size 9.0pt on input line 37.
 [2
 
 ]
 Κεφάλαιον  I.
-[3]
+[3] [4] [5] [6] [7] [8] [9]
 \Afootins=\box10373
 \footinsA=\box10374
 \Bfootins=\box10375
@@ -17212,8 +17214,8 @@ LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
 \Efootins=\box10381
 \footinsE=\box10382
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
-(Font)              scaled to size 20.74pt on input line 31.
- [4
+(Font)              scaled to size 20.74pt on input line 41.
+ [10
 
 ]) [1
 
@@ -17239,19 +17241,19 @@ LaTeX Font Info:    External font `cmex7' loaded for size
 ] ("/Users/mjo/Documents/Ancient Greek/Translations/Gospel of John Translation/.texpadtmp/gospelofjohn.aux" ("/Users/mjo/Documents/Ancient Greek/Translations/Gospel of John Translation/.texpadtmp/text/frontmatter/halftitle.aux") ("/Users/mjo/Documents/Ancient Greek/Translations/Gospel of John Translation/.texpadtmp/text/frontmatter/title.aux") ("/Users/mjo/Documents/Ancient Greek/Translations/Gospel of John Translation/.texpadtmp/text/frontmatter/titlegreek.aux") ("/Users/mjo/Documents/Ancient Greek/Translations/Gospel of John Translation/.texpadtmp/text/frontmatter/copyright.aux") ("/Users/mjo/Documents/Ancient Greek/Translations/Gospel of John Translation/.texpadtmp/text/frontmatter/quote.aux") ("/Users/mjo/Documents/Ancient Greek/Translations/Gospel of John Translation/.texpadtmp/text/frontmatter/note.aux") ("/Users/mjo/Documents/Ancient Greek/Translations/Gospel of John Translation/.texpadtmp/text/frontmatter/about.aux")))
 
 Here is how much of LuaTeX's memory you used:
- 44815 strings out of 478531
+ 44947 strings out of 478531
  125128,1373583 words of node,token memory allocated
  883 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 4 glue, 4 kern, 1 glyph, 12 attribute, 124 glue_spec, 8 attribute_list, 1 write nodes
-   avail lists: 1:3,2:1060,3:372,4:50,5:441,6:114,7:4934,8:54,9:1238,10:24,11:340
- 63455 multiletter control sequences out of 65536+600000
+   avail lists: 1:3,2:1060,3:372,4:72,5:578,6:114,7:7595,8:54,9:1238,10:30,11:1067
+ 63578 multiletter control sequences out of 65536+600000
  110 fonts using 22602383 bytes
- 90i,11n,127p,1087b,724s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 90i,11n,127p,3692b,740s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/opentype/public/philokalia/Philokalia-Regular.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf></usr/local/texlive/2021/texmf-dist/fonts/type1/public/initials/Zallman.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ccicons/ccicons.pfb>
-Output written on gospelofjohn.pdf (34 pages, 105460 bytes).
+Output written on gospelofjohn.pdf (41 pages, 116876 bytes).
 
-PDF statistics: 147 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
+PDF statistics: 170 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

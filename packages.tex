@@ -42,7 +42,7 @@
 
 
 \newdateformat{monthyeardate}{%
-  \monthname[\THEMONTH], \THEYEAR}
+  \monthname[\THEMONTH] \THEYEAR}
 
 \newfontfamily{\PHtitl}{Philokalia}[
   %Renderer=OpenType,
@@ -93,3 +93,35 @@
 \fancyhead[LE,RO]{\thepage}
 \fancyhead[LO]{\textsc{\nouppercase{\leftmark}}}
 \fancyhead[RE]{\textsc{\shorttitle}}}
+
+%%%%%%%%%% Greek Dates %%%%%%%%%%
+\newcommand\greekdate[1]{%
+  \ifcase#1\relax
+  \or
+    \uppercase{Γαμηλιών}
+  \or
+    \uppercase{Ἀνθεστηριών}
+  \or
+    \uppercase{Ἐλαφηβολιών}
+  \or
+    \uppercase{Μουνιχιών}
+  \or
+    \uppercase{Θαργηλιών}
+  \or
+    \uppercase{Σκιροφοριών}
+  \or
+    \uppercase{Ἑκατομβαιών}
+  \or
+    \uppercase{Μεταγειτνιών}
+  \or
+    \uppercase{Βοηδρομιών}
+  \or
+    \uppercase{Πυανεψιών}
+  \or
+    \uppercase{Μαιμακτηριών}
+  \or
+    \uppercase{Ποσειδεών}
+  \else
+     \OtherCases
+  \fi
+}

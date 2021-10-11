@@ -290,3 +290,5 @@ TSWLatexianTemp*
 *.DS_Store
 .DS_Store
 gospelofjohn.pdf
+.texpadtmp/*
+.texpadtmp/
